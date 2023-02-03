@@ -1,6 +1,6 @@
 print("Hello World")
 print("Hi hi hi ")
-print("Hi again !!")
+print("Hi")
 
 def f()
     pass 
